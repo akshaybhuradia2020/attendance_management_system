@@ -1,0 +1,3 @@
+DATABASE_NAME = "ams"
+DATABASE_PORT = 27017
+DATABASE_URL= f"mongodb://localhost:{DATABASE_PORT}"
