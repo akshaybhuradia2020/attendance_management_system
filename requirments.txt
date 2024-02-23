@@ -8,6 +8,7 @@ cffi==1.16.0
 charset-normalizer==3.3.2
 click==8.1.7
 cryptography==42.0.4
+deepdiff==6.7.1
 dnspython==2.6.1
 fastapi==0.109.2
 h11==0.14.0
@@ -15,12 +16,14 @@ httptools==0.6.1
 idna==3.6
 jmespath==1.0.1
 motor==3.3.2
+ordered-set==4.1.0
 packaging==23.2
 pyasn1==0.5.1
 pyasn1-modules==0.3.0
 pycparser==2.21
 pydantic==2.6.1
 pydantic_core==2.16.2
+PyJWT==2.8.0
 pykerberos==1.2.4
 pymongo==4.6.2
 pymongo-auth-aws==1.1.0
