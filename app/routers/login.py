@@ -1,6 +1,5 @@
-from typing import Annotated
+
 from fastapi import APIRouter, Depends
-from fastapi.security import OAuth2PasswordRequestForm
 from motor.motor_asyncio import AsyncIOMotorClient
 
 from app.core.login import *

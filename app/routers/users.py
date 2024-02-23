@@ -1,5 +1,5 @@
 
-from fastapi import APIRouter, Depends, HTTPException
+from fastapi import APIRouter, Depends
 from bson import ObjectId
 from motor.motor_asyncio import AsyncIOMotorClient
 
